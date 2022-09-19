@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**emsweetland/emsweetland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 -Linkedin: https://www.linkedin.com/in/em-sweetland/
 
-
+<--
+**emsweetland/emsweetland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
