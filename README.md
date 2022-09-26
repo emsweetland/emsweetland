@@ -12,9 +12,3 @@
 ✨ Before coding, my background involved art, landscaping and customer service. Through these avenues, I've learned a lot about empathy, and how it really fuels connection. I like to consider people before getting to the product.
 
 ✨ I'm looking forward to collaborating on projects that improve people's quality of life.
-
-✨ Linkedin: https://www.linkedin.com/in/em-sweetland/
-
-<--
-
--->
