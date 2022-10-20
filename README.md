@@ -12,14 +12,12 @@
 
 ✨ Link to my deployment on heroku: https://dry-bayou-45188.herokuapp.com/#/home
 
-📌 Find the repo in my pinned section here on github
-
 ✨ I've just wrapped up my first real-world client project! OQX is an interactive timeline delivering Queer History for an audience as young as 10 years old. I've had the pleasure of working on a team of 5 developers to deliver this full stack app built to our client's needs.
 
 🗣 Team includes Tim Anderson (TimothyMichael85), Kas Eam (KassandraEam), Taylor Moe (taylormoe93), and Eric Prouty (Proutyeahs)
 
 ✨ Link to our deployment on heroku: https://calm-savannah-19126.herokuapp.com/#/medicalScientific
 
-📌 Find the repo in my pinned section here on github
+📌 Please check out my pinned repositories here on github!
 
 ✨ I'm looking forward to collaborating on teams that bring joy and/or improve quality of life to their users through their work.
