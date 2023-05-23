@@ -16,4 +16,4 @@
 
 📌 Please check out my pinned repositories here on github!
 
-✨ I'm looking forward to collaborating on teams that bring joy and/or improve quality of life to their users through their work.
+✨ I'm am driven by collaborating on teams that bring joy and/or improve quality of life to their users through their work.
