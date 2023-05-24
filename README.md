@@ -8,13 +8,11 @@
 
 ✨ Before coding, my background involved art, landscaping and customer service. Through these avenues, I've learned a lot about empathy, and how it really fuels connection. I make an effort consider people before getting to the product.
 
-✨ Check out my solo project! A two week sprint, delivering a full CRUD, MVP version of my app, Moody.
+📌 Check out my solo project! A two week sprint, delivering a full CRUD, MVP version of my app, Moody.
 
 ✨ My first real-world client project, OQX, is an interactive timeline delivering Queer History for an audience as young as 10 years old. I've had the pleasure of working on a team of 5 developers to deliver this full stack app built to our client's needs within a two week sprint.
 
 🗣 Team includes <a href=https://github.com/TimothyMichael85>Tim Anderson</a>, <a href=https://github.com/Kassandraeam>Kas Eam</a>, <a href=https://github.com/taylormoe93>Taylor Moe</a>, and <a href=https://github.com/Proutyeahs>Eric Prouty</a>
-
-📌 Please check out my pinned repositories here on github!
 
 ✨ I'm am driven by collaborating on teams that bring joy and/or improve quality of life to their users through their work.
 
